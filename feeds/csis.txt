@@ -1,5 +1,3 @@
-https://www.csis.org/analysis/us-china-trade-truce-has-not-solved-gallium-problem
-https://www.csis.org/analysis/deal-art-assessing-america-first-trade-policy-asia
 https://www.csis.org/analysis/another-crack-tariff-wall
 https://www.csis.org/analysis/building-ai-workforce-math-behind-pipeline
 https://www.csis.org/analysis/japans-new-defense-export-policy-will-industry-seize-day
@@ -23,3 +21,5 @@ https://www.csis.org/analysis/why-china-now-peer-competitor-united-states-cybers
 https://www.csis.org/analysis/bitter-harvest-diagnosing-and-deterring-chinese-coercive-agricultural-trade-restrictions
 https://www.csis.org/analysis/killing-abu-bilal-al-minuki-and-us-militarys-deepening-involvement-nigeria
 https://www.csis.org/analysis/cdc-directors-nomination-opportunity-reconstitute-cdc
+https://www.csis.org/analysis/foreign-investment-attraction-and-cfius-can-known-investor-program-make-us-investment
+https://www.csis.org/analysis/how-trade-reduces-risk-war
