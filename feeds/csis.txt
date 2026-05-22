@@ -1,4 +1,3 @@
-https://www.csis.org/analysis/states-weekly-may-13-2026
 https://www.csis.org/analysis/us-campaign-exploit-beijings-weaknesses
 https://www.csis.org/analysis/how-might-trump-xi-summit-impact-us-farmers
 https://www.csis.org/analysis/impact-tariffs-ai-data-center-buildout-balancing-supply-chain-security-and-ai
@@ -23,3 +22,4 @@ https://www.csis.org/analysis/states-weekly-newsletter-may-20-2026
 https://www.csis.org/analysis/summit-equals
 https://www.csis.org/analysis/what-trump-xi-summit-revealed-and-left-unsaid-about-us-china-tech-competition
 https://features.csis.org/hiddenreach/china-fourth-carrier
+https://www.csis.org/analysis/revisiting-relationship-between-economic-and-sea-power
