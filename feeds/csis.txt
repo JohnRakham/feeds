@@ -1,8 +1,3 @@
-https://www.csis.org/analysis/pac-tech-pulse-may-2026
-https://www.csis.org/analysis/overturning-endangerment-finding-threatens-americans-health-wealth-and-security
-https://www.csis.org/analysis/how-are-perceptions-us-mexico-relationship-changing
-https://www.csis.org/analysis/lebanon-and-israel-talks-empowering-diplomacy-over-open-ended-conflict
-https://www.csis.org/analysis/unpacking-president-trumps-visit-china-state-play
 https://www.csis.org/analysis/ai-licensing-comes-full-circle
 https://www.csis.org/analysis/beyond-russian-gas-trade-offs-eu-liquefied-natural-gas-diversification
 https://www.csis.org/analysis/what-did-trump-xi-summit-achieve
@@ -23,3 +18,8 @@ https://www.csis.org/analysis/will-ai-economy-have-middle-class-case-ai-homestea
 https://www.csis.org/analysis/testing-future-joint-all-domain-operations-africa
 https://www.csis.org/analysis/vatican-just-outmaneuvered-washington-ai
 https://www.csis.org/analysis/global-terrorism-threat-assessment-2026
+https://www.csis.org/analysis/many-faces-antisemitic-terrorism-united-states
+https://www.csis.org/analysis/security-and-pacific-islands-insights-young-pacific-leaders
+https://www.csis.org/analysis/elevating-pacific-perspectives-us-regional-security-cooperation
+https://www.csis.org/analysis/how-arab-gulf-states-view-emerging-iran-deal
+https://www.csis.org/analysis/politics-and-repercussions-washingtons-permanent-joint-board-defense-pause
