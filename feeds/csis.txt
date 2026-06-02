@@ -1,4 +1,3 @@
-https://www.csis.org/analysis/how-trade-reduces-risk-war
 https://www.csis.org/analysis/san-diego-mosque-shooting-marks-deadly-first-united-states
 https://www.csis.org/analysis/insights-pay-now-argue-later-mechanism
 https://www.csis.org/analysis/states-weekly-newsletter-may-20-2026
@@ -23,3 +22,4 @@ https://www.csis.org/analysis/terrorist-threat-2026-world-cup
 https://www.csis.org/analysis/return-alien-tort-statute
 https://www.csis.org/analysis/us-india-insight-mandate-momentum-three-point-agenda-indian-states
 https://www.csis.org/analysis/latest-us-china-agriculture-talks-expand-purchasing-pledges-beyond-soybeans
+https://www.csis.org/analysis/what-maven-smart-system-and-what-does-it-do
